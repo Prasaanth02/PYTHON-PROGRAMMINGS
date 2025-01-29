@@ -1,8 +1,0 @@
-a=int(input("ENTER A NUMBER:"))
-b=int(input("ENTER A NUMBER:"))
-if a>b:
-    print(a,"is the largest")
-elif a==b:
-    print("a and b are equal")
-else:
-    print(b,"is the largest")
